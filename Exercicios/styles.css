@@ -1,0 +1,41 @@
+/* Ex15 */
+body{
+    background-color: lightblue;
+}
+/* Ex16 */
+h1{
+    color:pink;
+    font-size: 38px;
+    
+}
+/* Ex17 */
+.paragafroVermelho{
+    color: red;
+}
+/* Ex18 */
+.Borda{
+    border-color: darkcyan;
+    border-width: 6px;
+    border-style: inset;
+}
+
+h2{
+    font-size: 28px;
+    color:pink;
+}
+h3{
+    font-size: 18px;
+    color:pink;
+}
+.Negrito{
+    font-weight: bold;
+}
+.margem{
+    padding: 20px;
+}
+.margemParagrafo{
+    padding: 30px;
+}
+.butao{
+    border-radius: 20px;
+}
