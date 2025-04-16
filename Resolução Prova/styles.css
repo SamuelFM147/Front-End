@@ -1,0 +1,17 @@
+/* Reset básico e definição da fonte */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  /* Header e Footer com fundo e centralização de texto */
+  header {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  
